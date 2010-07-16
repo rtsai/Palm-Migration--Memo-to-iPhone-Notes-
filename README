@@ -3,6 +3,7 @@ http://sepv.jp/
 
 Usage:
 
+- Use Palm Desktop to export Memo contents as a CSV file.
 - Make a copy of %APPDATA%\SepV\User.db
 - ./memo2notes.py memo.csv User.db
 - cp User.db back to %APPDATA%\SepV\User.db
