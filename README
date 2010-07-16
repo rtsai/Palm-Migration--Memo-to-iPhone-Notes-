@@ -9,3 +9,5 @@ Usage:
 - cp User.db back to %APPDATA%\SepV\User.db
 - Start up the Notes+ desktop app.
 - Synchronize with the desktop app, overwriting the Notes+ data in the device.
+
+This has been tested with python2.6 on Linux, with the Windows Notes+ app.
