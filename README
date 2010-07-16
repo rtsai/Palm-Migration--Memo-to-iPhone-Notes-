@@ -1,2 +1,10 @@
 Import CSV file exported by Palm Desktop Memo into iPhone "Notes+" app from
 http://sepv.jp/
+
+Usage:
+
+- Make a copy of %APPDATA%\SepV\User.db
+- ./memo2notes.py memo.csv User.db
+- cp User.db back to %APPDATA%\SepV\User.db
+- Start up the Notes+ desktop app.
+- Synchronize with the desktop app, overwriting the Notes+ data in the device.
